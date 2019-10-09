@@ -1,6 +1,6 @@
 # PokeGo Chat
 
-## Usage
+**Usage**
 
 Visit the website: https://optimistic-northcutt-f027b5.netlify.com and search for a pokemon!
 
